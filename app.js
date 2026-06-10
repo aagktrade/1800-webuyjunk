@@ -1,0 +1,1 @@
+console.log('1800-We Buy Junk v1.8000 loaded');
